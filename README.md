@@ -8,3 +8,7 @@ Procedure to test:
 4. Wait for some time to analyse your real world scenes. 
 5. Tap anywhere on screen to place "Sun" in real world.
 6. Tap somewhere near to Sun node to place "Earth".
+
+Output:
+You can see output video from below link,
+https://twitter.com/KarthickTaco/status/919246927916449792
